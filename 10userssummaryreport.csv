@@ -1,0 +1,19 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Homepage,10,4643,3817,6417,835.44,0.000%,.68204,2423.55,2.70,3638687.8
+Login,10,1469,1000,2136,375.15,0.000%,.31918,3.44,1.62,11048.4
+https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,90,564,302,4247,596.39,0.000%,.38405,4.32,0.22,11522.3
+Test,10,7880,5975,10491,1528.68,0.000%,.22044,806.20,2.10,3745020.8
+https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveModule,10,1328,884,2384,438.16,0.000%,.23754,2.53,1.08,10915.0
+https://opensource-demo.orangehrmlive.com/web/index.php/leave/applyLeave,20,1474,892,2272,483.69,0.000%,.28744,3.06,1.30,10917.9
+Leave,10,3765,2926,4850,710.03,0.000%,.11796,2.76,1.20,23938.6
+https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewMyLeaveList,10,1441,929,2488,478.23,0.000%,.13619,1.45,0.62,10915.7
+ApplyLeave,10,3595,2544,5640,804.28,0.000%,.10580,2.47,1.08,23935.8
+https://opensource-demo.orangehrmlive.com/web/index.php/recruitment/viewRecruitmentModule,10,1651,895,2630,715.97,0.000%,.10275,1.10,0.47,10918.2
+https://opensource-demo.orangehrmlive.com/web/index.php/recruitment/viewJobVacancy,10,1787,944,2735,627.38,0.000%,.09392,1.00,0.43,10918.9
+Recruitment,10,4349,3155,5421,755.94,0.000%,.07647,1.79,0.78,23941.1
+https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,10,1426,945,2192,467.67,0.000%,.07324,0.78,0.33,10908.6
+Dashboard,10,1804,1257,2600,463.87,0.000%,.07186,0.84,0.37,11960.6
+https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewMyDetails,10,1130,1001,1428,130.35,0.000%,.06989,0.75,0.32,10916.7
+MyInfo,10,1510,1317,1830,171.01,0.000%,.06948,0.81,0.35,11968.7
+Debug Sampler,10,0,0,1,0.40,0.000%,.07035,0.06,0.00,807.8
+TOTAL,260,1761,0,10491,1832.67,0.000%,1.04314,301.00,4.04,295474.6
